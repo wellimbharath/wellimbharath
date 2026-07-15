@@ -7,5 +7,4 @@
 Personal: 
 
 1. [Personal Site](https://www.0xsolver.com/)
-2. [Solverscan](https://solverscan.io) - An indexer of swaps happening through solvers. Only cowswap is actively maintained atm. 
 
